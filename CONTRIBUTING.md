@@ -29,7 +29,7 @@ Obrigado pelo interesse em contribuir para o projeto Travazap! Este guia vai te 
 ### 1. Fork e Clone
 ```bash
 # Fork o repositório no GitHub
-git clone https://github.com/seu-usuario/travazap.git
+git clone https://github.com/juansilvadesign/travazap.git
 cd travazap
 ```
 
